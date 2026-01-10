@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "question": "這是在訓練你的信心，要破碎你的老我。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "question": "你不順服就是不蒙福。",
+    "weight": 5,
+    "is_active": true
+  },
+  {
+    "id": 3,
+    "question": "不可觸摸/質疑受膏者。",
+    "weight": 5,
+    "is_active": true
+  },
+  {
+    "id": 4,
+    "question": "離開這間教會你就沒遮蓋了。",
+    "weight": 5,
+    "is_active": true
+  },
+  {
+    "id": 5,
+    "question": "聖靈感動我叫你做這件事。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 6,
+    "question": "你要把你的以撒(最愛的)獻上。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 7,
+    "question": "你這樣太情緒化了，要靠主喜樂。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 8,
+    "question": "我覺得你裡面有驕傲/悖逆的靈。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 9,
+    "question": "這是魔鬼的攻擊。",
+    "weight": 2,
+    "is_active": true
+  },
+  {
+    "id": 10,
+    "question": "你的奉獻代表你的信心大小。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 11,
+    "question": "你要多做主工，不要愛世界。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 12,
+    "question": "我們都是為了你好，把你當家人。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 13,
+    "question": "這由不得你，要憑信心不憑眼見。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 14,
+    "question": "小心神會管教你。",
+    "weight": 5,
+    "is_active": true
+  },
+  {
+    "id": 15,
+    "question": "基督徒要以此受苦為樂，背起十字架。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 16,
+    "question": "只要有信心，宣告就會成就。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 17,
+    "question": "外面的神學都有問題，只有我們懂真理。",
+    "weight": 5,
+    "is_active": true
+  },
+  {
+    "id": 18,
+    "question": "弟兄是頭，姊妹要安靜順服。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 19,
+    "question": "神還沒賜給你伴侶，是因為你生命還有破口。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 20,
+    "question": "你生病/憂鬱是因為你信心不夠/有罪。",
+    "weight": 5,
+    "is_active": true
+  },
+  {
+    "id": 21,
+    "question": "你是萬王之王的孩子，神必使你居上不居下（發大財）。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 22,
+    "question": "做主工是不會累的，越服事越甘甜。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 23,
+    "question": "你要為他的靈魂交帳。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 24,
+    "question": "看在牧師/小組長的面子上...",
+    "weight": 2,
+    "is_active": true
+  },
+  {
+    "id": 25,
+    "question": "要有神國的雄心壯志（KPI）。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 26,
+    "question": "不跟上的就是不認同異象。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 27,
+    "question": "你不傳福音就是見死不救。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 28,
+    "question": "要花時間在有永恆價值的事上（教會事工）。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 29,
+    "question": "我靈裡覺得這段關係不適合你（分手）。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 30,
+    "question": "你這樣對得起神的恩典嗎？",
+    "weight": 5,
+    "is_active": true
+  },
+  {
+    "id": 31,
+    "question": "要委身，不要當屬靈遊牧民族。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 32,
+    "question": "這是奧祕，不要用理性分析。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 33,
+    "question": "神不會給難擔的擔子。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 34,
+    "question": "不卓越就不能榮耀神。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 35,
+    "question": "神啟示我，你要嫁給誰/做什麼工作。",
+    "weight": 5,
+    "is_active": true
+  },
+  {
+    "id": 36,
+    "question": "信與不信原不相配。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 37,
+    "question": "有沒有什麼破口？",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 38,
+    "question": "只要禱告就好，不要管地上的事。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 39,
+    "question": "這是化妝的祝福。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 40,
+    "question": "要請牧師為你遮蓋/禱告。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 41,
+    "question": "只要你夠渴慕，神就會動工。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 42,
+    "question": "你的夢想太小了，神要用你做大事。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 43,
+    "question": "我們要付代價。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 44,
+    "question": "這不是強迫，是邀請（但你不能拒絕）。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 45,
+    "question": "等你到了我這個身量就知道了。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 46,
+    "question": "再不傳福音/奉獻就來不及了。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 47,
+    "question": "聖靈充滿一定會有外顯彰顯。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 48,
+    "question": "道不同不相為謀。",
+    "weight": 5,
+    "is_active": true
+  },
+  {
+    "id": 49,
+    "question": "我們要捨己。",
+    "weight": 5,
+    "is_active": true
+  },
+  {
+    "id": 50,
+    "question": "話語有創造的力量。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 51,
+    "question": "做瑜珈/看哈利波特會招來邪靈，這是拜偶像。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 52,
+    "question": "什一奉獻是當納的，你是要稅前還是稅後蒙福？",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 53,
+    "question": "我們小組要倍增/分植，這是神的心意。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 54,
+    "question": "不可以論斷，不可說教會的閒話。",
+    "weight": 5,
+    "is_active": true
+  },
+  {
+    "id": 55,
+    "question": "我是你的屬靈父母，你要聽我的。",
+    "weight": 5,
+    "is_active": true
+  },
+  {
+    "id": 56,
+    "question": "談戀愛要經過牧者同意/蓋章。",
+    "weight": 5,
+    "is_active": true
+  },
+  {
+    "id": 57,
+    "question": "遲到就不能上台服事，因為神配得最好的。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 58,
+    "question": "你感覺不到聖靈，是因為你心太硬/沒敞開。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 59,
+    "question": "你最近這麼倒霉，是不是有隱藏的罪？",
+    "weight": 5,
+    "is_active": true
+  },
+  {
+    "id": 60,
+    "question": "這週的主日很重要，請大家一定要排除萬難參加。",
+    "weight": 2,
+    "is_active": true
+  },
+  {
+    "id": 61,
+    "question": "這叫做「屬靈爭戰」，我們要大聲喊叫趕鬼。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 62,
+    "question": "只有我們教會才有這種恩膏/水流。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 63,
+    "question": "這是初熟的果子（第一份薪水/年終），要全數奉獻。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 64,
+    "question": "我們要像馬大一樣殷勤，也要像馬利亞一樣愛主。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 65,
+    "question": "你在這裡沒有異象，就是沒有跟上聖靈的水流。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 66,
+    "question": "不可以聽世俗音樂/看電影，那會污染你的靈。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 67,
+    "question": "我有感動（預言）你會成為...（某種職分）。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 68,
+    "question": "他是核心同工/利未人，要求比較高。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 69,
+    "question": "你要不斷挖掘原生家庭的傷痛，才能得釋放。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 70,
+    "question": "你怎麼可以讓耶穌在門外等呢？（針對沒晨更/靈修）。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 71,
+    "question": "跟組員要有透明度，不能有秘密。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 72,
+    "question": "我們支持某某候選人，因為他是基督徒/反對同婚。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 73,
+    "question": "樂器/音響壞了，樂手要負責賠償/奉獻。",
+    "weight": 5,
+    "is_active": true
+  },
+  {
+    "id": 74,
+    "question": "感謝主（口頭禪），但行為完全沒愛心。",
+    "weight": 2,
+    "is_active": true
+  },
+  {
+    "id": 75,
+    "question": "我們要吸引高知識/高社經地位的人，才能轉化七山。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 76,
+    "question": "姊妹太強/書讀太多會嫁不出去，要裝笨一點。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 77,
+    "question": "週五小組、週六禱告會、週日主日，不來就是不委身。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 78,
+    "question": "你看別的小組都生養眾多，你們怎麼還沒新人？",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 79,
+    "question": "大衛不敢殺掃羅，所以你也不能反抗權柄（即使他很爛）。",
+    "weight": 5,
+    "is_active": true
+  },
+  {
+    "id": 80,
+    "question": "沒有守什一奉獻就是奪取神之物，會受咒詛。",
+    "weight": 5,
+    "is_active": true
+  },
+  {
+    "id": 81,
+    "question": "如果你愛主，你就會參加這個特會/營隊。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 82,
+    "question": "我們要有信心（這是一個很爛的計畫）。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 83,
+    "question": "你家裡拜偶像，所以你有祖先的咒詛要斷開。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 84,
+    "question": "神呼召你全職服事（當牧師），工作只是過渡。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 85,
+    "question": "染頭髮/穿耳洞/刺青是不聖潔的。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 86,
+    "question": "你要破碎老我，完全倒空。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 87,
+    "question": "生病不要吃藥，要憑信心禱告。",
+    "weight": 5,
+    "is_active": true
+  },
+  {
+    "id": 88,
+    "question": "幫忙搬家/接送/顧小孩，因為我們是家人。",
+    "weight": 2,
+    "is_active": true
+  },
+  {
+    "id": 89,
+    "question": "神會預備最適合你的，你只要等（不要主動）。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 90,
+    "question": "大家都要上台作見證（一定要是成功/病得醫治的）。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 91,
+    "question": "這件事我們要「再禱告」（意思就是：我不要）。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 92,
+    "question": "只要跟著牧師的恩膏，你就會蒙福。",
+    "weight": 5,
+    "is_active": true
+  },
+  {
+    "id": 93,
+    "question": "不可以看鬼滅之刃/動漫，裡面有鬼。",
+    "weight": 2,
+    "is_active": true
+  },
+  {
+    "id": 94,
+    "question": "如果你不服事，你就不是這個家的一份子。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 95,
+    "question": "那些離開教會的人都是背道者/貪愛世界。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 96,
+    "question": "你的夢想不合神的心意（不合我的心意）。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 97,
+    "question": "最近有沒有軟弱？（想打探八卦）。",
+    "weight": 3,
+    "is_active": true
+  },
+  {
+    "id": 98,
+    "question": "晶片是666獸印，疫苗是陰謀。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 99,
+    "question": "你要饒恕傷害你的人，快點去跟他擁抱。",
+    "weight": 4,
+    "is_active": true
+  },
+  {
+    "id": 100,
+    "question": "你的方言講得不夠流利/不夠大聲。",
+    "weight": 3,
+    "is_active": true
+  }
+]
